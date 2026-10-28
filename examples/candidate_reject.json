@@ -1,0 +1,8 @@
+{
+  "id": "candidate-go-002",
+  "commercial_experience": false,
+  "technical_test_score": 86,
+  "soft_skills_score": 45,
+  "ethics_and_security_passed": true,
+  "resume_text": "Go developer; concurrency; goroutines; unit testing; PostgreSQL; Docker"
+}

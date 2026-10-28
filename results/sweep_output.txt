@@ -1,0 +1,4 @@
+Sensitivity sweep completed: 25 configurations; 224 candidate profiles per configuration.
+Lowest offer rate: 9.82% (technical threshold 90, soft-skills threshold 80).
+Highest offer rate: 40.18% (technical threshold 50, soft-skills threshold 40).
+CSV saved to results/parameter_sweep.csv

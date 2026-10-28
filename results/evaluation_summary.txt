@@ -1,0 +1,29 @@
+Dataset: testdata/resume_benchmark.csv
+Rows: 25; after duplicate-text removal: 25
+Correct: 25; accuracy: 100.00%; macro-F1: 1.0000
+Per-class metrics:
+  Advocate                   n=1   precision=1.000 recall=1.000 F1=1.000
+  Arts                       n=1   precision=1.000 recall=1.000 F1=1.000
+  Automation Testing         n=1   precision=1.000 recall=1.000 F1=1.000
+  Blockchain                 n=1   precision=1.000 recall=1.000 F1=1.000
+  Business Analyst           n=1   precision=1.000 recall=1.000 F1=1.000
+  Civil Engineer             n=1   precision=1.000 recall=1.000 F1=1.000
+  Data Science               n=1   precision=1.000 recall=1.000 F1=1.000
+  Database                   n=1   precision=1.000 recall=1.000 F1=1.000
+  DevOps Engineer            n=1   precision=1.000 recall=1.000 F1=1.000
+  DotNet Developer           n=1   precision=1.000 recall=1.000 F1=1.000
+  ETL Developer              n=1   precision=1.000 recall=1.000 F1=1.000
+  Electrical Engineering     n=1   precision=1.000 recall=1.000 F1=1.000
+  HR                         n=1   precision=1.000 recall=1.000 F1=1.000
+  Hadoop                     n=1   precision=1.000 recall=1.000 F1=1.000
+  Health and fitness         n=1   precision=1.000 recall=1.000 F1=1.000
+  Java Developer             n=1   precision=1.000 recall=1.000 F1=1.000
+  Mechanical Engineer        n=1   precision=1.000 recall=1.000 F1=1.000
+  Network Security Engineer  n=1   precision=1.000 recall=1.000 F1=1.000
+  Operations Manager         n=1   precision=1.000 recall=1.000 F1=1.000
+  PMO                        n=1   precision=1.000 recall=1.000 F1=1.000
+  Python Developer           n=1   precision=1.000 recall=1.000 F1=1.000
+  SAP Developer              n=1   precision=1.000 recall=1.000 F1=1.000
+  Sales                      n=1   precision=1.000 recall=1.000 F1=1.000
+  Testing                    n=1   precision=1.000 recall=1.000 F1=1.000
+  Web Designing              n=1   precision=1.000 recall=1.000 F1=1.000
